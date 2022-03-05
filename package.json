@@ -1,14 +1,14 @@
 {
-  "name": "Haruka",
+  "name": "Vex Bot 2.0",
   "version": "2.0.1",
-  "description": "Not yet",
-  "main": "haruka.js",
+  "description": "Gtw cuy Bingung gw mau ngasih deskripsi apaan",
+  "main": "Vex.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node haruka.js"
+    "start": "node Vex.js"
   },
   "author": "ZEEONE",
   "dependencies": {
